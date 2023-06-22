@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -21,5 +22,19 @@ use Illuminate\Support\Facades\Route;
  */
 
 Route::get('/', function () {
-    return view('welcome');
+    //return view('welcome');
+    return 'Home route';
+});
+
+Route::get('blog', function () {
+    return 'Publications List';
+});
+
+Route::get('blog/{slug}', function ($slug) {
+    //database query simulation
+    return $slug;
+});
+
+Route::get('find', function (Request $request) {
+    return $request->all();
 });
