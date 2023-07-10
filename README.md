@@ -20,7 +20,8 @@ In this course, I learn how to build robust and scalable web applications with t
 4. Class 6: Templates
    - How to implement templates to make short pieces of code
 
-5. 
+5. Class 7: Controllers
+   - Basic usage of controllers
 
 ## Contclusion
 
