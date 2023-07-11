@@ -23,6 +23,9 @@ In this course, I learn how to build robust and scalable web applications with t
 5. Class 7: Controllers
    - Basic usage of controllers
 
+6. Class 8: Migrations
+   - Basic usage of migrations
+
 ## Contclusion
 
 We are not here yet!!
