@@ -26,6 +26,10 @@ In this course, I learn how to build robust and scalable web applications with t
 6. Class 8: Migrations
    - Basic usage of migrations
 
+7. Class 9: Models and Seeders
+   - Basic usage of models(create a model using the command make:model)
+   - How to seed the database with fake data(option --seed)
+
 ## Contclusion
 
 We are not here yet!!
