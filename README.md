@@ -28,7 +28,7 @@ In this course, I learn how to build robust and scalable web applications with t
 
 7. Class 9: Models and Seeders
    - Basic usage of models(create a model using the command make:model)
-   - How to seed the database with fake data(option --seed)
+   - How to seed the database with fake data(migrate:refresh --seed)
 
 ## Contclusion
 
