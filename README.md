@@ -30,6 +30,12 @@ In this course, I learn how to build robust and scalable web applications with t
    - Basic usage of models(create a model using the command make:model)
    - How to seed the database with fake data(migrate:refresh --seed)
 
+8. Class 10: Eloquent
+   - How to use Eloquent(ORM) to make queries without use SQL language
+
+9. Class 11: Reationships
+   - How to implement relationships using eloquent
+
 ## Contclusion
 
 We are not here yet!!
