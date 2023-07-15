@@ -36,6 +36,11 @@ In this course, I learn how to build robust and scalable web applications with t
 9. Class 11: Reationships
    - How to implement relationships using eloquent
 
+10. Class 13: Login
+   - how to use breeze to create a login
+      * composer require laravel/breeze --dev
+      * php artisan breeze:install (caution with the routes cause the file get overwrite)
+
 ## Contclusion
 
 We are not here yet!!
