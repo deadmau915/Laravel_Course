@@ -7,39 +7,39 @@ In this course, I learn how to build robust and scalable web applications with t
 ## Course Contents
 
 1. Class 1, 2, 3: Introduction to Laravel
-   - Laravel installation and project setup
-   - Understanding the Laravel directory structure
-   - Usage of the CLI artisan commands
+   * Laravel installation and project setup
+   * Understanding the Laravel directory structure
+   * Usage of the CLI artisan commands
 
 2. Class 4: Routes
-   - Basic usage of routes(get, post, delete, put)
+   * Basic usage of routes(get, post, delete, put)
 
 3. Class 5: Views
-   - Basic usage of views
+   * Basic usage of views
 
 4. Class 6: Templates
-   - How to implement templates to make short pieces of code
+   * How to implement templates to make short pieces of code
 
 5. Class 7: Controllers
-   - Basic usage of controllers
+   * Basic usage of controllers
 
 6. Class 8: Migrations
-   - Basic usage of migrations
+   * Basic usage of migrations
 
 7. Class 9: Models and Seeders
-   - Basic usage of models(create a model using the command make:model)
-   - How to seed the database with fake data(migrate:refresh --seed)
+   * Basic usage of models(create a model using the command make:model)
+   * How to seed the database with fake data(migrate:refresh --seed)
 
 8. Class 10: Eloquent
-   - How to use Eloquent(ORM) to make queries without use SQL language
+   * How to use Eloquent(ORM) to make queries without use SQL language
 
 9. Class 11: Reationships
-   - How to implement relationships using eloquent
+   * How to implement relationships using eloquent
 
 10. Class 13: Login
-   - how to use breeze to create a login
-      * composer require laravel/breeze --dev
-      * php artisan breeze:install (caution with the routes cause the file get overwrite)
+   * how to use breeze to create a login
+      - composer require laravel/breeze --dev
+      - php artisan breeze:install (caution with the routes cause the file get overwrite)
 
 ## Contclusion
 
