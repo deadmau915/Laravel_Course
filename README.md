@@ -42,7 +42,10 @@ In this course, I learn how to build robust and scalable web applications with t
       - php artisan breeze:install (caution with the routes cause the file get overwrite)
 
 11. Class 15: Admin panel
-   * creating an admin panel to the users
+   * Creating an admin panel to the users
+
+12. Class 16: Publication's list
+   * Creating a publication's list interface
 
 ## Contclusion
 
