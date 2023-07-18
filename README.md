@@ -47,6 +47,9 @@ In this course, I learn how to build robust and scalable web applications with t
 12. Class 16: Publication's list
    * Creating a publication's list interface
 
+13. Class 17: Delete
+   * How to create a delete functionality using Laravel
+
 ## Contclusion
 
 We are not here yet!!
