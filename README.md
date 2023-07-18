@@ -50,6 +50,9 @@ In this course, I learn how to build robust and scalable web applications with t
 13. Class 17: Delete
    * How to create a delete functionality using Laravel
 
+14. Class 18: Create and Update
+   * How to create a CRUD
+
 ## Contclusion
 
 We are not here yet!!
