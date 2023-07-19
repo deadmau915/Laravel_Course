@@ -53,6 +53,9 @@ In this course, I learn how to build robust and scalable web applications with t
 14. Class 18: Create and Update
    * How to make a CRUD
 
+15. Class 20: Store functionality
+   * How to store a record on the DB
+
 ## Contclusion
 
 We are not here yet!!
