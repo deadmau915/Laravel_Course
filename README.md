@@ -38,8 +38,8 @@ In this course, I learn how to build robust and scalable web applications with t
 
 10. Class 13: Login
    * How to use breeze to create a login
-      - composer require laravel/breeze --dev
-      - php artisan breeze:install (caution with the routes cause the file get overwrite)
+   * composer require laravel/breeze --dev
+   * php artisan breeze:install (caution with the routes cause the file get overwrite)
 
 11. Class 15: Admin panel
    * Creating an admin panel to the users
@@ -55,6 +55,12 @@ In this course, I learn how to build robust and scalable web applications with t
 
 15. Class 20: Store functionality
    * How to store a record on the DB
+
+16. Class 21: Updating functionality
+   * How to update a record
+
+17. Class 22: Validations
+   * How to implement validations on a form
 
 ## Contclusion
 
