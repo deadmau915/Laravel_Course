@@ -51,7 +51,7 @@ In this course, I learn how to build robust and scalable web applications with t
    * How to create a delete functionality using Laravel
 
 14. Class 18: Create and Update
-   * How to create a CRUD
+   * How to make a CRUD
 
 ## Contclusion
 
