@@ -59,8 +59,10 @@ In this course, I learn how to build robust and scalable web applications with t
 16. Class 21: Updating functionality
    * How to update a record
 
-17. Class 22: Validations
+17. Class 22, 23: Validations
    * How to implement validations on a form
+   * How to validate duplicate records
+
 
 ## Contclusion
 
