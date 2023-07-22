@@ -72,6 +72,9 @@ In this course, I learn how to build robust and scalable web applications with t
    * Adding some styles to the head of home page
    * Adding style to the post view page
 
+20. Class 29: Search functionality
+   * Adding functionality to the search bar
+
 ## Contclusion
 
 We are not here yet!!
