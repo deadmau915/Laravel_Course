@@ -78,6 +78,9 @@ In this course, I learn how to build robust and scalable web applications with t
 21. Class 30: Optimize querys
    * Optimizing queries in the home page using barryvdh third-party package
 
+22. Class 31: Finishing the project
+   * Setting the remaining routes of home->post and vice versa
+
 ## Contclusion
 
 We are not here yet!!
