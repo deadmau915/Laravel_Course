@@ -75,6 +75,9 @@ In this course, I learn how to build robust and scalable web applications with t
 20. Class 29: Search functionality
    * Adding functionality to the search bar
 
+21. Class 30: Optimize querys
+   * Optimizing queries in the home page using barryvdh third-party package
+
 ## Contclusion
 
 We are not here yet!!
