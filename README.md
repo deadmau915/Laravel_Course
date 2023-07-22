@@ -67,9 +67,10 @@ In this course, I learn how to build robust and scalable web applications with t
    * How to add some style using vite and tailwind
       - @vite(['...','...'])
 
-19. Class 26, 27: Showing the posts in home page
+19. Class 26, 27, 28: Showing the posts in home page
    * How to show the posts in the home page
    * Adding some styles to the head of home page
+   * Adding style to the post view page
 
 ## Contclusion
 
