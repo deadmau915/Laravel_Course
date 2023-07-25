@@ -81,6 +81,6 @@ In this course, I learn how to build robust and scalable web applications with t
 22. Class 31: Finishing the project
    * Setting the remaining routes of home->post and vice versa
 
-## Contclusion
+## Conclusion
 
 In this course I learn the basics of Laravel, how to use the artisan CLI, how too use Blade and tailwind to develop a front-end faster and how to use Eloquent; We never stop to learn!!
